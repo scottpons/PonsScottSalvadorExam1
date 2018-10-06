@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PonsScottSalvadorExam1</string>
+    <string name="but1">Personal notes</string>
+    <string name="but2">Office notes</string>
+    <string name="but3">Public notes</string>
+    <string name="memo1">Anime</string>
+    <string name="desc1">Naruto, One Piece, Boruto</string>
+    <string name="memo2">Marvel Shows</string>
+    <string name="desc2">Daredevil, Luke Cage, Jessica Jones, Iron Fist and AOS</string>
+    <string name="memo4">Games to Buy</string>
+    <string name="desc4">MH World and TR</string>
+</resources>
